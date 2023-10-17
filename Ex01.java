@@ -54,7 +54,7 @@ public class Ex01 extends HttpServlet {
 		writer.println("</body>");
 		writer.println("</html>");
 		
-		writer.close(); //일종의 스트림
+		writer.close(); //일종의 스트림\\\
 		
 		 
 		//4. 요청(실행)
